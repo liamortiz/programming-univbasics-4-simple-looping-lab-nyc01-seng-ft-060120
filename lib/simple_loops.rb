@@ -22,4 +22,5 @@ def return_string_array(array)
   array.each do |e|
     e = e.to_i
   end
+  array
 end
