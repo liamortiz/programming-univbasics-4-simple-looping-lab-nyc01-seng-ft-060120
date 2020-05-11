@@ -9,4 +9,5 @@ end
 def output_array
 end
 
-def 
+def return_string_array
+end
