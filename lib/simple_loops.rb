@@ -13,7 +13,9 @@ def loop_message_n_times(string, counter)
 end
 
 def output_array(array)
-  
+  array.each do |e|
+    puts e
+  end
 end
 
 def return_string_array
